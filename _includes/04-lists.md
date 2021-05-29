@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+- Mobile Technologies
+  - Android
+  - iOS
+  - React
+  - Flutter
+- Web Technologies
